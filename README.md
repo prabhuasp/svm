@@ -1,0 +1,2 @@
+# svm
+swami vivekananda data
